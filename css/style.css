@@ -908,4 +908,12 @@ blockquote {
   font-weight: bold;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+#hero {
+  padding-bottom: 150px;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
